@@ -1,0 +1,1 @@
+{"version":3,"file":"ApiInfo.d.ts","sourceRoot":"","sources":["../../src/types/config/ApiInfo.ts"],"names":[],"mappings":"AAAA,MAAM,WAAW,OAAO;IACtB,OAAO,EAAE,MAAM,CAAC;IAChB,SAAS,EAAE,MAAM,CAAC,MAAM,EAAE,MAAM,CAAC,CAAC;CACnC"}

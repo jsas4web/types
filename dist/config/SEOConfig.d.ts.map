@@ -1,0 +1,1 @@
+{"version":3,"file":"SEOConfig.d.ts","sourceRoot":"","sources":["../../src/types/config/SEOConfig.ts"],"names":[],"mappings":"AAAA,MAAM,WAAW,SAAS;IACxB,YAAY,EAAE,MAAM,CAAC;IACrB,kBAAkB,EAAE,MAAM,CAAC;IAC3B,QAAQ,EAAE,MAAM,EAAE,CAAC;IACnB,aAAa,EAAE,MAAM,CAAC;IACtB,KAAK,EAAE,MAAM,CAAC;CACf"}

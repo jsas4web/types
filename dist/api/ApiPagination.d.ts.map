@@ -1,0 +1,1 @@
+{"version":3,"file":"ApiPagination.d.ts","sourceRoot":"","sources":["../../src/types/api/ApiPagination.ts"],"names":[],"mappings":"AAAA,MAAM,WAAW,aAAa;IAC5B,IAAI,EAAE,MAAM,CAAC;IACb,QAAQ,EAAE,MAAM,CAAC;IACjB,UAAU,EAAE,MAAM,CAAC;IACnB,UAAU,EAAE,MAAM,CAAC;CACpB"}
